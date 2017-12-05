@@ -1,0 +1,164 @@
+var matches = [
+  {
+      "name":"Miley Cyrus",
+      "photo":"https://www.famousbirthdays.com/headshots/miley-cyrus-1.jpg",
+      "scores":[
+         1,
+         4,
+         4,
+         1,
+         5,
+         1,
+         3,
+         5,
+         1,
+         5
+          ]
+      },
+  {
+  "name":"Ruth Bader Ginsburg",
+  "photo":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Ruth_Bader_Ginsburg%2C_SCOTUS_photo_portrait.jpg/220px-Ruth_Bader_Ginsburg%2C_SCOTUS_photo_portrait.jpg",
+  "scores":[
+     5,
+     5,
+     1,
+     5,
+     5,
+     1,
+     2,
+     5,
+     4,
+     2
+      ]
+},
+{
+  "name":"Ivanka Trump",
+  "photo":"http://news24-d50.kxcdn.com/media/filer_public/88/9a/889a2159-efac-4e3e-85f3-17530f383e23/ivanka_3.jpg",
+  "scores":[
+     1,
+     1,
+     2,
+     2,
+     5,
+     1,
+     2,
+     4,
+     2,
+     3
+      ]
+},
+{
+  "name":"Emma Stone",
+  "photo":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Emma_Stone_by_Gage_Skidmore.jpg/180px-Emma_Stone_by_Gage_Skidmore.jpg",
+  "scores":[
+     3,
+     3,
+     5,
+     5,
+     5,
+     1,
+     3,
+     3,
+     2,
+     5
+      ]
+},
+{
+  "name":"Julia Roberts",
+  "photo":"https://images-na.ssl-images-amazon.com/images/M/MV5BMTQzNjU3MDczN15BMl5BanBnXkFtZTYwNzY2Njc4._V1_UX214_CR0,0,214,317_AL_.jpg",
+  "scores":[
+     5,
+     3,
+     5,
+     1,
+     5,
+     1,
+     3,
+     4,
+     1,
+     2
+      ]
+},
+{
+  "name":"Angelina Jolie",
+  "photo":"https://pbs.twimg.com/profile_images/936267239438934016/oL_dFlZ0_400x400.jpg",
+  "scores":[
+     2,
+     3,
+     5,
+     3,
+     5,
+     1,
+     3,
+     5,
+     5,
+     1
+      ]
+},
+{
+  "name":"Catherine Zeta Jones",
+  "photo":"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+  "scores":[
+     4,
+     2,
+     5,
+     2,
+     5,
+     1,
+     1,
+     4,
+     3,
+     3
+      ]
+},
+{
+  "name":"Jennifer Lawrence",
+  "photo":"https://images-na.ssl-images-amazon.com/images/M/MV5BMTAxMTI1MTUyOTdeQTJeQWpwZ15BbWU4MDIyOTg0NzAy._CR-1,0,1395,1395_UX402_UY402._SY201_SX201_AL_.jpg",
+  "scores":[
+     2,
+     4,
+     5,
+     3,
+     5,
+     1,
+     1,
+     3,
+     2,
+     4
+      ]
+},
+{
+  "name":"Rihanna",
+  "photo":"http://www.rihannanow.com/wp-content/uploads/2017/10/Oct12-post1-rihholidaycollection-300x300.jpg",
+  "scores":[
+     2,
+     1,
+     2,
+     1,
+     5,
+     1,
+     1,
+     2,
+     5,
+     2
+      ]
+},
+{
+  "name":"Celine Dion",
+  "photo":"https://img.discogs.com/NABRH2p8hvZIapz4HjMcMn5vY04=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/A-19298-1489014529-3683.jpeg.jpg",
+  "scores":[
+     4,
+     3,
+     4,
+     5,
+     5,
+     1,
+     5,
+     1,
+     1,
+     5
+      ]
+}
+]
+
+module.exports = matches;
